@@ -1,0 +1,1 @@
+insert into exchange (n_from , n_to, n_value) values('SOLES', 'DOLARES', 3.8);
